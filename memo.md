@@ -7,5 +7,5 @@
 * to have partial function(PF) methods define it with explicitly PartialFunction[] type, otherwise it will be  - proper function
 * to promote from partial to total use .lift on PF
 
-#10 - #13 INCLUSIVE SKIPPED
+#10 - #14 INCLUSIVE SKIPPED
 
