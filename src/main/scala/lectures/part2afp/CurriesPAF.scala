@@ -61,7 +61,8 @@ object CurriesPAF extends App {
   val seriousFormat = curriedFormatter("%8.6f") _
   val preciseFormat = curriedFormatter("%14.12f") _
 
-  println(numbers.map(curriedFormatter("%14.12f"))) // compiler does sweet eta-expansion for us
+//  println(numbers.map(curriedFormatter("%14.12f"))) // compiler does sweet eta-expansion for us
+  println(numbers.map(simpleFormat)) // compiler does sweet eta-expansion for us
 
   /*
     2.  difference between
