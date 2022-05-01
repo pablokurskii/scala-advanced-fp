@@ -31,3 +31,7 @@ deadlock, livelock examples
 Thread vs Future
 * thread not returnvalue
 * use notify/wait to wait for result in Threads, use Await.result(future) to automatically resolve when result is available 
+
+#28
+* Ugly used nested onComplete must be replaced by  for-comprehensions ... see example
+* for fallbacks and exceptions use .recover, recoverWIth or .fallbackTo
