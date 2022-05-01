@@ -46,3 +46,11 @@ Thread vs Future
 
 Promise is a container over a future. Can simplify problem solution with Threads. See example ThreadCommunitation and
 FuturePromises
+
+# 32 - 41  INCLUSIVE SKIPPED
+
+#43
+
+* possible to create new type while defining a function
+* super + type linearization - with multitype inheritance and super call - see example with Colors
+* diamond problem - scala will call same method of the most right type
