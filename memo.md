@@ -57,3 +57,5 @@ FuturePromises
 
 #44-45   INCLUSIVE SKIPPED
 
+#48
+nudge to implement self types (traits) - forbid extend without implementing
