@@ -18,3 +18,5 @@ curries are useful to reduce the amount of arguments and produce template functi
 with curriedFormatter
 
 # 14-19 INCLUSIVE SKIPPED
+
+#22 SKIPPED
