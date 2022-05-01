@@ -19,19 +19,30 @@ with curriedFormatter
 
 # 14-19 INCLUSIVE SKIPPED
 
-#22 SKIPPED
+# 22 SKIPPED
 
-#24
-mutable.Queue as a buffer 
+# 24
 
-#26 
+mutable.Queue as a buffer
+
+# 26
+
 deadlock, livelock examples
 
-#27
-Thread vs Future
-* thread not returnvalue
-* use notify/wait to wait for result in Threads, use Await.result(future) to automatically resolve when result is available 
+# 27
 
-#28
-* Ugly used nested onComplete must be replaced by  for-comprehensions ... see example
+Thread vs Future
+
+* thread not returnvalue
+* use notify/wait to wait for result in Threads, use Await.result(future) to automatically resolve when result is
+  available
+
+# 28
+
+* Ugly used nested onComplete must be replaced by for-comprehensions ... see example
 * for fallbacks and exceptions use .recover, recoverWIth or .fallbackTo
+
+# 29
+
+Promise is a container over a future. Can simplify problem solution with Threads. See example ThreadCommunitation and
+FuturePromises
