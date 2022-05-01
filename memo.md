@@ -28,7 +28,7 @@ mutable.Queue as a buffer
 # 26
 
 deadlock, livelock examples
- 
+
 # 27
 
 Thread vs Future
@@ -49,13 +49,18 @@ FuturePromises
 
 # 32 - 41  INCLUSIVE SKIPPED
 
-#43
+# 43
 
 * possible to create new type while defining a function
 * super + type linearization - with multitype inheritance and super call - see example with Colors
 * diamond problem - scala will call same method of the most right type
 
-#44-45   INCLUSIVE SKIPPED
+# 44-45   INCLUSIVE SKIPPED
 
-#48
+# 48
+
 nudge to implement self types (traits) - forbid extend without implementing
+
+# 49 - Unfinished because of implicits
+
+F bounded polymorphism used in ORM as an example
