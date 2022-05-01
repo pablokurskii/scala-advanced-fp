@@ -26,3 +26,8 @@ mutable.Queue as a buffer
 
 #26 
 deadlock, livelock examples
+
+#27
+Thread vs Future
+* thread not returnvalue
+* use notify/wait to wait for result in Threads, use Await.result(future) to automatically resolve when result is available 
