@@ -20,3 +20,6 @@ with curriedFormatter
 # 14-19 INCLUSIVE SKIPPED
 
 #22 SKIPPED
+
+#24
+mutable.Queue as a buffer 
