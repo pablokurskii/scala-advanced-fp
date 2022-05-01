@@ -28,7 +28,7 @@ mutable.Queue as a buffer
 # 26
 
 deadlock, livelock examples
-
+ 
 # 27
 
 Thread vs Future
