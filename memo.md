@@ -54,3 +54,6 @@ FuturePromises
 * possible to create new type while defining a function
 * super + type linearization - with multitype inheritance and super call - see example with Colors
 * diamond problem - scala will call same method of the most right type
+
+#44-45   INCLUSIVE SKIPPED
+
