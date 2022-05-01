@@ -64,3 +64,5 @@ nudge to implement self types (traits) - forbid extend without implementing
 # 49 - Unfinished because of implicits
 
 F bounded polymorphism used in ORM as an example
+
+#50 - SKIPPED
