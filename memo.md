@@ -23,3 +23,6 @@ with curriedFormatter
 
 #24
 mutable.Queue as a buffer 
+
+#26 
+deadlock, livelock examples
